@@ -85,4 +85,4 @@ GestureSpeak-Sign-to-Text-Converter/
    pytest -v tests/test_depl.py
    ```
 ---
-Developed with ❤️ by Shatakshi & Srishti.
+Created with ❤️ by Shatakshi & Srishti.
